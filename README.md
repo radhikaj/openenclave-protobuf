@@ -1,4 +1,4 @@
-# This project is to create a basic POC to get protobuf linked inside an enclave. It is not maintained regularly and not meant to be used in production
+# Disclaimer: This project is to create a basic POC to get libprotobuf working inside an enclave. It is not scrubbed for vulnerabilities and is not meant to be used in production
 
 # Build and use protobuf with Open Enclave
 
